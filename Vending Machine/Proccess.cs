@@ -16,7 +16,7 @@ namespace Vending_Machine
                 int vendingNumber = 0;
                 bool isSelected = false;
             // choose path of choice
-            string path = @"C:\Users\jamel\Downloads\Git_Vending.txt";
+            string path = @"C:Downloads\Git_Vending.txt";
            
                 do
             {
